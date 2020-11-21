@@ -353,7 +353,7 @@ section {
 .about .content ul {
   list-style: none;
   padding: 0;
-  width: 500px;
+  /*width: 500px;*/
 }
 
 .icons-about {
@@ -365,6 +365,7 @@ section {
 
 .about .content ul li {
   padding-bottom: 10px;
+  width: auto;
 
 }
 
